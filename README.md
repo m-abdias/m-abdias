@@ -8,7 +8,7 @@
   Desenvolvedora Full Stack
 </p>
 
-### 🌻 Sobre mim:
+### ✨ Sobre mim:
 
 <p>
   <em>
@@ -16,7 +16,7 @@
   </em>
 </p>
 
-- 🌱 Atualmente estou aprendendo ReactJs.
+- 📚 Atualmente estou aprendendo ReactJs.
 - 🚀 Aluna dos cursos Labenu, Startse - Tech Academy, Hiring Coders - Gama Academy
 - 📫 Meu email: mabdiasgoncalves@gmail.com
 
@@ -28,7 +28,7 @@
 - 📈 Conseguir experiência na área
 
 
-### ⚡ Tecnologias:
+### ⚡️ Tecnologias:
 
 Estas são algumas das tecnologias e ferramentas que trabalho:
 
