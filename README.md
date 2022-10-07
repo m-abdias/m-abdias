@@ -12,7 +12,7 @@
 
 <p>
   <em>
-    Tenho 29 anos, sou de Itajubá-MG e estou em processo de transição de carreira para me tornar uma desenvolvedora FullStack.
+    Tenho 30 anos, sou de Itajubá-MG e estou em processo de transição de carreira para me tornar uma desenvolvedora FullStack.
   </em>
 </p>
 
