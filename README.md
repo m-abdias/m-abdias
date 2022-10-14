@@ -12,11 +12,11 @@
 
 <p>
   <em>
-    Tenho 30 anos, sou de Itajubá-MG e estou em processo de transição de carreira para me tornar uma desenvolvedora FullStack.
+    Tenho 30 anos e trabalho como desenvolvedora FullStack na Scoder.
   </em>
 </p>
 
-- 📚 Atualmente estou aprendendo ReactJs.
+- 📚 Atualmente estou aprendendo Backend.
 - 🚀 Aluna dos cursos Labenu, Startse - Tech Academy, Hiring Coders - Gama Academy
 - 📫 Meu email: mabdiasgoncalves@gmail.com
 
