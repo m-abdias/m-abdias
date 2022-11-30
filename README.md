@@ -32,7 +32,7 @@
 
 Estas são algumas das tecnologias e ferramentas que trabalho:
 
-[![Minhas Skills](https://skillicons.dev/icons?i=git,github,vscode,html,css,javascript,typescript,react,styledcomponents,sass,materialui,graphql,nodejs,nest,mysql,sql,postgresql,heroku,jest,docker,aws,auroradb)](https://skillicons.dev)
+[![Minhas Skills](https://skillicons.dev/icons?i=git,github,vscode,html,css,javascript,typescript,react,styledcomponents,sass,materialui,graphql,nodejs,nest,mysql,postgresql,mongodb,heroku,jest,docker,aws)](https://skillicons.dev)
 
 ### 📈 Minhas Estatísticas
 
