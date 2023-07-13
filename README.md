@@ -12,20 +12,11 @@
 
 <p>
   <em>
-    Tenho 30 anos e trabalho como desenvolvedora FullStack na Scoder.
+    Tenho 30 anos e trabalho como desenvolvedora FullStack na Dl Eletronics.
   </em>
 </p>
 
-- 📚 Atualmente estou aprendendo Backend.
-- 🚀 Aluna dos cursos Labenu, Startse - Tech Academy, Hiring Coders - Gama Academy
 - 📫 Meu email: mabdiasgoncalves@gmail.com
-
-
-### 📊 Metas 2022:
-
-- 📂 Expandir meu portfólio
-- 🤝 Contribuir em projetos open-source
-- 📈 Conseguir experiência na área
 
 
 ### ⚡️ Tecnologias:
