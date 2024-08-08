@@ -12,19 +12,11 @@
 
 <p>
   <em>
-    Tenho 30 anos e trabalho como desenvolvedora FullStack na Dl Eletronics.
+    Tenho 31 anos e atuo como Software Engineer na empresa Ewally.
   </em>
 </p>
 
 - 📫 Meu email: mabdiasgoncalves@gmail.com
-
-
-### ⚡️ Tecnologias:
-
-Estas são algumas das tecnologias e ferramentas que trabalho:
-
-[![Minhas Skills](https://skillicons.dev/icons?i=git,github,vscode,html,css,javascript,typescript,react,styledcomponents,sass,materialui,graphql,nodejs,nest,mysql,postgresql,mongodb,heroku,jest,docker,aws,figma)](https://skillicons.dev)
-
 
 ### 💬 Quer me conhecer?
 
