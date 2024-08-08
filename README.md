@@ -25,11 +25,6 @@ Estas são algumas das tecnologias e ferramentas que trabalho:
 
 [![Minhas Skills](https://skillicons.dev/icons?i=git,github,vscode,html,css,javascript,typescript,react,styledcomponents,sass,materialui,graphql,nodejs,nest,mysql,postgresql,mongodb,heroku,jest,docker,aws,figma)](https://skillicons.dev)
 
-### 📈 Minhas Estatísticas
-
-| Minhas Estatísticas                                                                                                                                                            | Principais Linguagens                                                                                                                                                                     |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=m-abdias&show_icons=true&hide_border=true&count_private=true&theme=jolly) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kayke-Fujinaka&langs_count=10&count_private=true&hide_border=true&theme=jolly&layout=compact) |
 
 ### 💬 Quer me conhecer?
 
