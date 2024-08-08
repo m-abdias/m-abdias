@@ -32,5 +32,3 @@
 [Portfólio](https://m-abdias.github.io/Portfolio/)
 
 <br>
-<p>🧠 <spam style="font-style:italic">"Nunca é tarde para recomeçar."</spam></p>
-
