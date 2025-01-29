@@ -12,7 +12,7 @@
 
 <p>
   <em>
-    Tenho 31 anos e atuo como Software Engineer na empresa Ewally.
+    Tenho 32 anos e atuo como Engenheira de Software.
   </em>
 </p>
 
